@@ -19,7 +19,7 @@ Also, I am learning about security, cryptography and cybersecurity.
 
 ### Contact me
 
-GitHub: [MVrachev](github.com/mvrachev)
+GitHub: [MVrachev](https://github.com/MVrachev)
 
 Linkedin: [Martin Vrachev](https://www.linkedin.com/in/martin-vrachev/)
 
