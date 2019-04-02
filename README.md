@@ -14,7 +14,7 @@ Also, I am learning about security, cryptography and cybersecurity.
 | Date | Conference | Location | Topic | Length |
 | --- | --- | --- | --- | --- |
 | 27 Mar. 2019 | BSidesBud | Budapest, Hungary | Precaution - Applying Precaution to prevent source code security vulnerabilities | 20 min.
-| 3-4 Nov. 2019 | OpenFest | Sofia, Bulgaria | [Security linters – why we need them?](https://www.youtube.com/watch?v=GcffWbg2ERY&t=35s) | 5 min.
+| 03-04 Nov. 2019 | OpenFest | Sofia, Bulgaria | [Security linters – why we need them?](https://www.youtube.com/watch?v=GcffWbg2ERY&t=35s) | 5 min.
 
 
 ### Contact me
