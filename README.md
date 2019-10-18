@@ -2,9 +2,12 @@
 
 I am Martin Vrachev and I am finishing my bachelor degree in Sofia University "St. Kliment Ohridski".
 
-I work for VMware as an Open Source software developer in Sofia Bulgaria.
+I am working for VMware as an Open Source software developer in Sofia Bulgaria.
 
-Lately, I spent time on static code analysis tools focused on finding security vulnerabilities.
+My experenice includes static code analysis tools focused on finding security vulnerabilities and tools to scan
+Docker images.
+
+I am aslo a part of the [CNCF Sig Security](https://github.com/cncf/sig-security).
 
 Also, I am learning about security, cryptography and cybersecurity.
 
