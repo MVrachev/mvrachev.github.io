@@ -7,7 +7,7 @@ I am working for VMware as an Open Source software developer in Sofia Bulgaria.
 
 My work experenice includes projects like:
 - [Gosec](https://github.com/securego/gosec) a security static code analysis tool (security linter) for Go
-- [Precaution](https://github.com/vmware/precaution) a GitHub application utilizing multiple security linters to scan the upcoming pull request in a project
+- [Precaution](https://github.com/vmware/precaution) a GitHub application utilizing multiple security linters to scan the \ pull requests
 - [Clair](https://github.com/coreos/clair) a security analyzer of Docker images
 
 I am aslo a part of the [CNCF Sig Security](https://github.com/cncf/sig-security).
