@@ -1,11 +1,14 @@
 ## Welcome to Martin Vrachevs portfolio
 
-I am Martin Vrachev and I am finishing my bachelor degree in Sofia University "St. Kliment Ohridski".
+I am Martin Vrachev and I finished my bachelor degree in Sofia University "St. Kliment Ohridski".
+Currently I am studying a masters degree in Artificial Intelegence in Sofia University "St. Kliment Ohridski".
 
 I am working for VMware as an Open Source software developer in Sofia Bulgaria.
 
-My experenice includes static code analysis tools focused on finding security vulnerabilities and tools to scan
-Docker images.
+My work experenice includes projects like:
+- [Gosec](https://github.com/securego/gosec) a security static code analysis tool (security linter) for Go
+- [Precaution](https://github.com/vmware/precaution) a GitHub application utilizing multiple security linters to scan the upcoming pull request in a project
+- [Clair](https://github.com/coreos/clair) a security analyzer of Docker images
 
 I am aslo a part of the [CNCF Sig Security](https://github.com/cncf/sig-security).
 
