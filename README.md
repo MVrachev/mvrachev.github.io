@@ -25,7 +25,9 @@ Also, I am learning about security, cryptography and cybersecurity.
 
 ### Blog posts
 
-- [Announcing Precaution – A New Open Source GitHub App That Automatically Scans Pull Requests for Security Vulnerabilities](https://blogs.vmware.com/opensource/2019/01/22/precaution-open-source-github-app/)
+- [Introducing Clair: A Powerful Tool for Container Security](https://blogs.vmware.com/opensource/2019/10/31/clair-container-security/) *October 31, 2019*
+- [Announcing Precaution – A New Open Source GitHub App That Automatically Scans Pull Request s for Security Vulnerabilities](https://blogs.vmware.com/opensource/2019/01/22/precaution-open-source-github-app/) *January 22, 2019*
+
 
 ### Contact me
 
