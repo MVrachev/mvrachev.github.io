@@ -19,6 +19,7 @@ Also, I am learning about security, cryptography and cybersecurity.
 
 | Date | Conference | Location | Topic | Length |
 | --- | --- | --- | --- | --- |
+| 14.11.2019 | [IstaCon](https://www.istacon.org/) | Sofia, Bulgaria | Next level static code analysis reported in a next level fashion | 40 min |
 | 17.10.2019 | Meet-Up on Software Development Security | Sofia, Bulgaria | Secure Docker containers with Clair | 15 min |
 | 27.03.2019 | BSidesBud | Budapest, Hungary | Precaution - Applying Precaution to prevent source code security vulnerabilities | 20 min.
 | 03.11.2018 | OpenFest | Sofia, Bulgaria | [Security linters – why do we need them?](https://www.youtube.com/watch?v=GcffWbg2ERY&t=35s) | 5 min.
