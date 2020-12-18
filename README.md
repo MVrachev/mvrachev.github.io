@@ -6,7 +6,7 @@ Currently I am studying a masters degree in Artificial Intelegence in Sofia Univ
 I am working for VMware as an Open Source software developer in Sofia Bulgaria.
 
 My work experenice includes projects like:
-- [TUF](https://github.com/theupdateframework/tuf)
+- [TUF](https://github.com/theupdateframework/tuf) an update framework designed to protect against exploits during the update process of certain packages/objects.
 - [Gosec](https://github.com/securego/gosec) a security static code analysis tool (security linter) for Go
 - [Precaution](https://github.com/vmware/precaution) a GitHub application utilizing multiple security linters to scan pull requests
 - [Clair](https://github.com/coreos/clair) a security analyzer of Docker images
